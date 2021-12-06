@@ -1,0 +1,16 @@
+.type{
+    font-weight: bold;
+    color: darkslategrey; 
+}
+.smaller{
+    font-size: 18px;
+    color: darkslategrey;
+}
+.unique{
+    font-style: oblique;
+    font-family: monospace;
+    color:darkgreen;
+}
+.caption{
+    font-size: 26px;
+}
